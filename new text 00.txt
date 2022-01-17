@@ -1,0 +1,4 @@
+ls
+cd
+git init
+git dd .
